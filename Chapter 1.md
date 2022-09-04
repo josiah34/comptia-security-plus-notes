@@ -1,4 +1,7 @@
 ## Three Objectives of Cyber Security 
+![cia](img/cia.png)
+  
+
 - Confidentiality 
 - Availability
 - Integrity 
@@ -13,7 +16,7 @@ Also known as the **CIA Triad**
 
 
 ### Three main threats to cybersecurity (DAD Triad)
-- Disclousure 
+- Disclosure 
 - Alteration 
 - Denial 
-  
+
